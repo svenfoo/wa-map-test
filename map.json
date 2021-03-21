@@ -40,16 +40,17 @@
          "y":0
         }, 
         {
-         "id":18,
-         "layers":[],
+         "draworder":"topdown",
+         "id":20,
          "name":"floorLayer",
+         "objects":[],
          "opacity":1,
-         "type":"group",
+         "type":"objectgroup",
          "visible":true,
          "x":0,
          "y":0
         }],
- "nextlayerid":20,
+ "nextlayerid":21,
  "nextobjectid":5,
  "orientation":"orthogonal",
  "renderorder":"right-down",
